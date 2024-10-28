@@ -49,7 +49,7 @@ namespace Movies
         }
         public override void TypeOfMovie()
         {
-            Console.WriteLine("Filmen innehåller " + NumberOfFunnyScenes + " roliga scener.");
+            Console.WriteLine("Filmen innehåller " + NumberOfFunnyScenes + " tråkiga scener.");
         }
 
     }
